@@ -1,0 +1,28 @@
+{
+    "command": "DEV_TEMP_OFF",
+    "timestamp": 1769671240,
+    "6c1477cb4cc5e216": {
+        "command": "EXIT_KIOSK",
+        "timestamp": 1769675228
+    },
+    "ae8acafae90fc719": {
+        "command": "ENTER_KIOSK",
+        "timestamp": 1769675534
+    },
+    "4604b24e425421d0": {
+        "command": "DEV_TEMP_ON",
+        "timestamp": 1769675226
+    },
+    "28a10da07b5bcb75": {
+        "command": "EXIT_KIOSK",
+        "timestamp": 1769711460
+    },
+    "97f268b5b7dec691": {
+        "command": "FACTORY_RESET",
+        "timestamp": 1769712497
+    },
+    "2710e9fcdc95e810": {
+        "command": "EXIT_KIOSK",
+        "timestamp": 1769715461
+    }
+}

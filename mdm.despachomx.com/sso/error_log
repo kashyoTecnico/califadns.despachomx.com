@@ -1,0 +1,295 @@
+[31-Jan-2026 20:43:17 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 20:43:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 20:43:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 20:43:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 20:43:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 20:43:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 20:43:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:10 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:11 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:12 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:12 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:12 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:13 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:13 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:13 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:27:13 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:31:41 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:36:38 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:37:03 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:37:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:37:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:37:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:37:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:37:05 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:37:05 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:38:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:41 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:45 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:51 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:52 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:52 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:53 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:53 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:55 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:39:56 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:40:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:40:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:40:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:40:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:40:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:40:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:40:21 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:40:21 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:44:10 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:44:12 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:44:13 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:44:14 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:44:34 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:44:40 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24
+[31-Jan-2026 21:44:45 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.sso_tokens' doesn't exist in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php:24
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/sso/create_token.php(24): mysqli->prepare('\r\n    INSERT IN...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/sso/create_token.php on line 24

@@ -1,0 +1,95 @@
+[01-Feb-2026 00:45:44 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886344, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:45:46 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886346, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:45:46 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886346, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:45:47 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886347, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:45:47 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886347, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:45:47 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886347, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:45:52 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886352, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:47:20 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886440, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:47:32 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886452, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:48:11 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886491, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:48:17 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886497, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:48:21 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886501, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:49:26 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886566, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:49:34 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886574, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:50:19 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886619, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:50:22 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886622, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:51:44 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886704, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:51:58 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886718, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14
+[01-Feb-2026 00:52:07 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: setcookie() expects at most 7 arguments, 9 given in /home4/luisfe19/califadns.despachomx.com/auth/logout.php:14
+Stack trace:
+#0 /home4/luisfe19/califadns.despachomx.com/auth/logout.php(14): setcookie('PHPSESSID', '', 1769886727, '/', '.despachomx.com', '/', '.despachomx.com', false, true)
+#1 {main}
+  thrown in /home4/luisfe19/califadns.despachomx.com/auth/logout.php on line 14

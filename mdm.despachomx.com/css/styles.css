@@ -1,0 +1,152 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-top: 10px;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #333;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.welcome-message {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.post-container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.post {
+    margin-bottom: 20px;
+}
+
+.post-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.post-content {
+    font-size: 16px;
+}
+
+.user-info {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.logout {
+    display: inline-block;
+    margin: 20px auto;
+    width: 100px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.logout:hover {
+    background-color: #555;
+}
+
+.btn-back, input[type="submit"] {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: #555;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn-back:hover, input[type="submit"]:hover {
+    background-color: #777;
+}
+
+/* Estilos del formulario de inicio de sesión */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.form-box {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 80%;
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+.form-box h2 {
+    text-align: center;
+}
+
+.form-box label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.form-box input[type="email"],
+.form-box input[type="password"],
+.form-box input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.form-box input[type="submit"] {
+    background-color: #FFC107;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.form-box input[type="submit"]:hover {
+    background-color: #FFB300;
+}
+footer a {
+    color: #39FF14; /* Verde fosforescente */
+    text-decoration: none; /* Sin subrayado */
+}
+
+footer a:hover {
+    text-decoration: underline; /* Subrayado al pasar el ratón por encima */
+}

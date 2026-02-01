@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Contactar al Administrador</title>
+    <style>
+        /* Estilos CSS para centrar y dar estilo */
+        body {
+            background-color: #303030;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        form {
+            margin: 20px auto;
+            width: 400px;
+            background-color: #444;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        input[type="text"], input[type="email"] {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            border-radius: 4px;
+        }
+    
+        .button {
+            color: white;
+        
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            padding: 10px 20px;
+            border-radius: 4px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .error-message {
+            color: red;
+            margin-top: 10px;
+        }
+        .success-message {
+            color: green;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Contactar al Administrador</h2>
+
+    <!-- Formulario para contactar al administrador -->
+    <form action="enviar_contacto_admin.php" method="post">
+        <label for="nombre">Nombre Completo:</label><br>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+        
+        <label for="correo">Correo Electrónico:</label><br>
+        <input type="email" id="correo" name="correo" required><br><br>
+
+        <label for="usuario">Nombre de Usuario:</label><br>
+        <input type="text" id="usuario" name="usuario" required><br><br>
+        
+        <input type="submit" value="Enviar">
+       
+    </form>
+
+    <!-- Mensaje de éxito -->
+    <?php if(isset($_GET['enviado']) && $_GET['enviado'] == 'true'): ?>
+        <div class="success-message">Tu mensaje ha sido enviado al administrador.</div>
+    <?php endif; ?>
+
+    <!-- Mensaje de error -->
+    <?php if(isset($_GET['error']) && $_GET['error'] == 'envio_failed'): ?>
+        <div class="error-message">Ha ocurrido un error al enviar el mensaje.</div>
+        <a href='logout.php' class="button">Volver a iniciar Sesion</a>
+        
+    <?php endif; ?>
+
+
+</body>
+<footer>
+    <div class="sub-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <p>Copyright © 2024 Despacho Contable MD 
+            
+                - Desarrollado por: <a rel="nofollow noopener" href="https://api.whatsapp.com/send?phone=5216461797388&text=%F0%9F%91%8D%20Hola%2C%20Nuevo%20Cliente-Web%3A%0ANombre%3A%0ANumero%20Telefonico%3A%0AMensaje%3A%0A%0A" target="blank_" >KashyoTecnico</a></p>
+            </div>
+        </div>
+      </div>
+    </div>
+</footer>
+</html>

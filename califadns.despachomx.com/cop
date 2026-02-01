@@ -1,0 +1,35 @@
+<?php
+$device = $_GET["id"] ?? "";
+if (!$device) die("No device");
+?>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>📱 Dispositivo: <?=htmlspecialchars($device)?></h2>
+
+<button onclick="send('ENTER_KIOSK')">🔒 Bloquear</button>
+<button onclick="send('EXIT_KIOSK')">🔓 Desbloquear</button>
+
+<button onclick="send('WIFI_LOCK')">📶 WiFi OFF</button>
+<button onclick="send('WIFI_UNLOCK')">📶 WiFi ON</button>
+
+<button onclick="send('DNS_LOCK')">🌐 DNS LOCK</button>
+<button onclick="send('DNS_UNLOCK')">🌐 DNS UNLOCK</button>
+
+<script>
+function send(cmd){
+ fetch('/server/set_command.php',{
+  method:'POST',
+  headers:{'Content-Type':'application/x-www-form-urlencoded'},
+  body:'token=7429&cmd='+cmd
+ });
+}
+</script>
+
+</body>
+</html>

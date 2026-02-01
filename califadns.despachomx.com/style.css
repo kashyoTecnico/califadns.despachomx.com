@@ -1,0 +1,58 @@
+body {
+  background:#0b0b0b;
+  color:#fff;
+  font-family:system-ui, sans-serif;
+  margin:0;
+}
+
+header {
+  text-align:center;
+  padding:20px;
+  background:#111;
+  border-bottom:1px solid #222;
+}
+
+.grid {
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+  gap:15px;
+  padding:20px;
+}
+
+.card {
+  background:#1a1a1a;
+  padding:15px;
+  border-radius:10px;
+  box-shadow:0 0 10px rgba(0,0,0,.5);
+}
+
+.card.on { border-left:6px solid #00ff66; }
+.card.off { border-left:6px solid #ff3333; }
+
+.status {
+  font-weight:bold;
+  margin-bottom:10px;
+}
+
+.actions h4 {
+  margin:10px 0 5px;
+  font-size:13px;
+  color:#aaa;
+}
+
+button {
+  padding:8px 10px;
+  margin:3px;
+  font-size:13px;
+  border:none;
+  border-radius:6px;
+  cursor:pointer;
+  background:#333;
+  color:#fff;
+}
+
+button:hover { background:#555; }
+
+.lock { background:#c0392b; }
+.unlock { background:#27ae60; }
+.danger { background:#8e0000; }

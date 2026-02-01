@@ -1,0 +1,446 @@
+[30-Jan-2026 18:37:26 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luisfe19_kashyo30'@'localhost' (using password: YES) in /home4/luisfe19/mdm.despachomx.com/login.php:10
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/login.php(10): mysqli->__construct('localhost', 'luisfe19_kashyo...', Object(SensitiveParameterValue), 'luisfe19_califa...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[30-Jan-2026 18:40:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luisfe19_kashyo30'@'localhost' to database 'luisfe19_califa_DB' in /home4/luisfe19/mdm.despachomx.com/login.php:10
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/login.php(10): mysqli->__construct('localhost', 'luisfe19_kashyo...', Object(SensitiveParameterValue), 'luisfe19_califa...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[30-Jan-2026 18:40:07 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luisfe19_kashyo30'@'localhost' to database 'luisfe19_califa_DB' in /home4/luisfe19/mdm.despachomx.com/login.php:10
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/login.php(10): mysqli->__construct('localhost', 'luisfe19_kashyo...', Object(SensitiveParameterValue), 'luisfe19_califa...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[30-Jan-2026 18:40:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luisfe19_kashyo30'@'localhost' to database 'luisfe19_califa_DB' in /home4/luisfe19/mdm.despachomx.com/login.php:10
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/login.php(10): mysqli->__construct('localhost', 'luisfe19_kashyo...', Object(SensitiveParameterValue), 'luisfe19_califa...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[30-Jan-2026 18:40:50 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luisfe19_kashyo30'@'localhost' to database 'luisfe19_califa_DB' in /home4/luisfe19/mdm.despachomx.com/login.php:10
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/login.php(10): mysqli->__construct('localhost', 'luisfe19_kashyo...', Object(SensitiveParameterValue), 'luisfe19_califa...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[30-Jan-2026 18:40:51 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'luisfe19_kashyo30'@'localhost' to database 'luisfe19_califa_DB' in /home4/luisfe19/mdm.despachomx.com/login.php:10
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/login.php(10): mysqli->__construct('localhost', 'luisfe19_kashyo...', Object(SensitiveParameterValue), 'luisfe19_califa...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[30-Jan-2026 18:42:19 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[30-Jan-2026 21:37:08 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 00:34:01 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 00:38:09 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 00:43:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 00:46:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 00:47:49 America/Mexico_City] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for sql108.infinityfree.com failed: Name or service not known in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[31-Jan-2026 00:47:49 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for sql108.infinityfree.com failed: Name or service not known in /home4/luisfe19/mdm.despachomx.com/login.php:10
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/login.php(10): mysqli->__construct('sql108.infinity...', 'if0_36773676', Object(SensitiveParameterValue), 'if0_36773676_ca...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[31-Jan-2026 00:47:52 America/Mexico_City] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo for sql108.infinityfree.com failed: Name or service not known in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[31-Jan-2026 00:47:52 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for sql108.infinityfree.com failed: Name or service not known in /home4/luisfe19/mdm.despachomx.com/login.php:10
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/login.php(10): mysqli->__construct('sql108.infinity...', 'if0_36773676', Object(SensitiveParameterValue), 'if0_36773676_ca...')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/login.php on line 10
+[31-Jan-2026 00:50:15 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 35
+[31-Jan-2026 00:50:15 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 36
+[31-Jan-2026 00:50:17 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 00:54:13 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 00:54:17 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 00:56:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 00:56:39 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:01:03 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:01:14 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:01:15 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:10:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:10:11 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:11:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:12:01 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 01:12:01 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 01:12:04 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:12:05 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:12:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:12:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:13:53 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:14:30 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:14:53 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'luisfe19_califa_DB.publicaciones' doesn't exist in /home4/luisfe19/mdm.despachomx.com/index.php:45
+Stack trace:
+#0 /home4/luisfe19/mdm.despachomx.com/index.php(45): mysqli->query('\nSELECT p.*, u....')
+#1 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/index.php on line 45
+[31-Jan-2026 01:21:56 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 01:21:56 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 01:24:45 America/Mexico_City] PHP Warning:  Undefined variable $row in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 137
+[31-Jan-2026 01:24:45 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 137
+[31-Jan-2026 01:24:45 America/Mexico_City] PHP Warning:  Undefined variable $row in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 139
+[31-Jan-2026 01:24:45 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 139
+[31-Jan-2026 01:24:45 America/Mexico_City] PHP Warning:  Undefined variable $row in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 141
+[31-Jan-2026 01:24:45 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 141
+[31-Jan-2026 01:24:45 America/Mexico_City] PHP Warning:  Undefined variable $row in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 143
+[31-Jan-2026 01:24:45 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 143
+[31-Jan-2026 01:35:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 01:35:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 01:39:10 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 01:42:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 01:42:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 01:43:14 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 01:43:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 01:43:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 01:44:55 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 01:51:49 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "," or ";" in /home4/luisfe19/mdm.despachomx.com/enviar_recuperacion.php on line 2
+[31-Jan-2026 01:54:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 01:54:19 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 01:56:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 01:56:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 01:56:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:01:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:01:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:01:35 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:01:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:03:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:03:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:03:46 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:03:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:07:22 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/", expecting "class" in /home4/luisfe19/mdm.despachomx.com/vendor/composer/autoload_real.php on line 28
+[31-Jan-2026 02:49:10 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 02:49:10 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 02:51:29 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 02:51:29 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 02:51:32 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 02:51:32 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 02:51:42 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 02:51:42 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 02:52:46 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 02:52:46 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 02:53:10 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 02:53:10 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 02:58:14 America/Mexico_City] PHP Warning:  Undefined variable $_Sder in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 42
+[31-Jan-2026 02:58:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/luisfe19/mdm.despachomx.com/admin_login.php:42
+Stack trace:
+#0 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 42
+[31-Jan-2026 03:00:26 America/Mexico_City] PHP Warning:  Undefined variable $_Sder in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 42
+[31-Jan-2026 03:00:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home4/luisfe19/mdm.despachomx.com/admin_login.php:42
+Stack trace:
+#0 {main}
+  thrown in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 42
+[31-Jan-2026 03:03:45 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 03:03:45 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 03:03:49 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 03:03:49 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 03:21:05 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 03:21:05 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 03:31:20 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 03:31:20 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 03:31:35 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 03:31:35 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 03:31:37 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 03:31:37 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 03:33:17 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 03:33:17 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 03:33:28 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 03:33:28 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 03:52:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 12
+[31-Jan-2026 03:52:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 12
+[31-Jan-2026 03:52:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 12
+[31-Jan-2026 04:03:47 America/Mexico_City] PHP Parse error:  Unmatched '}' in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 52
+[31-Jan-2026 04:09:54 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 04:09:54 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 04:11:02 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 04:11:02 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 04:11:07 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 04:11:07 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 04:14:44 America/Mexico_City] PHP Parse error:  Unmatched '}' in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 62
+[31-Jan-2026 04:14:53 America/Mexico_City] PHP Parse error:  Unmatched '}' in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 62
+[31-Jan-2026 04:14:58 America/Mexico_City] PHP Parse error:  Unmatched '}' in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 62
+[31-Jan-2026 04:17:00 America/Mexico_City] PHP Parse error:  Unmatched '}' in /home4/luisfe19/mdm.despachomx.com/admin_login.php on line 62
+[31-Jan-2026 20:42:59 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 20:42:59 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 20:43:02 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 20:43:02 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 20:43:14 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 20:43:14 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 21:33:17 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 21:33:17 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 21:36:35 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 21:36:35 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 21:39:43 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 21:39:43 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 21:39:54 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 21:39:54 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 21:40:15 America/Mexico_City] PHP Warning:  Undefined variable $row in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 137
+[31-Jan-2026 21:40:15 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 137
+[31-Jan-2026 21:40:15 America/Mexico_City] PHP Warning:  Undefined variable $row in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 139
+[31-Jan-2026 21:40:15 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 139
+[31-Jan-2026 21:40:15 America/Mexico_City] PHP Warning:  Undefined variable $row in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 141
+[31-Jan-2026 21:40:15 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 141
+[31-Jan-2026 21:40:15 America/Mexico_City] PHP Warning:  Undefined variable $row in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 143
+[31-Jan-2026 21:40:15 America/Mexico_City] PHP Warning:  Trying to access array offset on null in /home4/luisfe19/mdm.despachomx.com/editar_usuario.php on line 143
+[31-Jan-2026 21:52:18 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 21:52:18 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 21:52:22 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 21:52:22 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 21:52:30 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 21:52:30 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 21:52:32 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 21:52:32 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 21:55:31 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 21:55:31 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 21:55:38 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 21:55:38 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 21:58:10 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 21:58:10 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 21:58:14 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 21:58:14 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 21:58:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 21:58:22 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:19:41 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:19:41 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:20:18 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:20:18 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:26:57 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:26:57 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:28:26 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:28:26 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:28:29 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 22:28:29 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 22:28:57 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:28:57 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:32:12 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:32:12 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:45:03 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:45:03 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:51:02 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:51:02 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 22:51:04 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 22:51:04 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 22:52:18 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 22:52:18 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:04:24 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 23:04:24 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:04:25 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:04:25 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:07:07 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:07:07 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:12:44 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 23:12:44 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:12:53 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:12:53 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:27:00 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 23:27:00 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:27:07 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:27:07 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:39:23 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:39:23 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:39:25 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:39:25 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:39:43 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 23:39:43 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:39:53 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:39:53 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:41:05 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 23:41:05 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:41:10 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:41:10 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:41:51 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 23:41:51 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:42:01 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:42:01 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:42:06 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:42:06 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:42:16 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:42:16 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:42:23 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:42:23 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:42:36 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 23:42:36 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:42:39 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:42:39 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:42:43 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:42:43 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:42:49 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 33
+[31-Jan-2026 23:42:49 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 34
+[31-Jan-2026 23:42:51 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:42:51 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:42:53 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:42:53 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:43:02 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 218
+[31-Jan-2026 23:43:02 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 220
+[31-Jan-2026 23:46:19 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 219
+[31-Jan-2026 23:46:19 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 221
+[31-Jan-2026 23:46:28 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 219
+[31-Jan-2026 23:46:28 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 221
+[31-Jan-2026 23:46:31 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 219
+[31-Jan-2026 23:46:31 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 221
+[31-Jan-2026 23:48:29 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:48:29 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:48:49 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:48:49 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:49:21 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:49:21 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:50:48 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:50:48 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:50:50 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:50:50 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:51:12 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:51:12 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:51:12 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:51:12 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:51:14 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:51:14 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:52:18 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:52:18 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:52:32 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:52:32 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:00 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:00 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:01 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:01 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:15 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:15 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:20 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:20 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:35 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:35 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:38 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:38 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:51 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:51 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:53 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:53 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:55 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:55 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:53:58 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:53:58 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:54:40 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:54:40 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:54:42 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:54:42 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:55:24 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:55:24 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:55:44 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:55:44 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:56:05 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:56:05 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:56:11 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:56:11 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:56:48 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:56:48 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[31-Jan-2026 23:57:04 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 233
+[31-Jan-2026 23:57:04 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 235
+[01-Feb-2026 00:22:18 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 39
+[01-Feb-2026 00:22:18 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 40
+[01-Feb-2026 00:22:24 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:22:24 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:22:28 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:22:28 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:45:42 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 39
+[01-Feb-2026 00:45:42 America/Mexico_City] PHP Warning:  Undefined array key "correo" in /home4/luisfe19/mdm.despachomx.com/login.php on line 40
+[01-Feb-2026 00:45:50 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:45:50 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:45:54 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:45:54 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:45:57 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:45:57 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:47:36 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:47:36 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:48:12 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:48:12 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:48:20 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:48:20 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:48:24 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:48:24 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:49:33 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:49:33 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:49:35 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:49:35 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:50:21 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:50:21 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:50:23 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:50:23 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:51:45 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:51:45 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:52:00 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:52:00 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:54:27 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:54:27 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:54:54 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:54:54 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:54:57 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:54:57 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:57:00 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:57:00 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241
+[01-Feb-2026 00:57:02 America/Mexico_City] PHP Warning:  Undefined array key "email" in /home4/luisfe19/mdm.despachomx.com/index.php on line 239
+[01-Feb-2026 00:57:02 America/Mexico_City] PHP Warning:  Undefined array key "created_at" in /home4/luisfe19/mdm.despachomx.com/index.php on line 241

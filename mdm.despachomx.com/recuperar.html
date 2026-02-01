@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Recuperar Contraseña</title>
+    <style>
+        body {
+            background-color: #303030;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        form {
+            margin: 20px auto;
+            width: 300px;
+            background-color: #444;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        input[type="text"], input[type="email"], input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .btn-back {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px 0;
+            background-color: #555;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .btn-back:hover {
+            background-color: #777;
+        }
+        .error-message {
+            color: red;
+            margin-top: 10px;
+        }
+        .success-message {
+            color: green;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Recuperar Contraseña</h2>
+    <form action="enviar_recuperacion.php" method="post">
+        <label for="username_or_email">Nombre de usuario o Correo Electrónico:</label><br>
+        <input type="text" id="username_or_email" name="username_or_email" required><br><br>
+        <label for="email">Correo Electrónico:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+        <input type="submit" value="Enviar Enlace de Recuperación">
+    </form>
+    <br>
+    <a href="login.php" class="btn-back">Regresar a Iniciar sesión</a>
+
+    <!-- Mensaje de error o éxito -->
+    <?php if (!empty($_GET['error'])): ?>
+        <div class="error-message"><?php echo htmlspecialchars($_GET['error']); ?></div>
+    <?php endif; ?>
+
+    <?php if (!empty($_GET['success'])): ?>
+        <div class="success-message"><?php echo htmlspecialchars($_GET['success']); ?></div>
+    <?php endif; ?>
+</body>
+<footer>
+    <div class="sub-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <p>Copyright © 2024 Despacho Contable MD 
+            
+                - Desarrollado por: <a rel="nofollow noopener" href="https://api.whatsapp.com/send?phone=5216461797388&text=%F0%9F%91%8D%20Hola%2C%20Nuevo%20Cliente-Web%3A%0ANombre%3A%0ANumero%20Telefonico%3A%0AMensaje%3A%0A%0A" target="blank_" >KashyoTecnico</a></p>
+            </div>
+        </div>
+      </div>
+    </div>
+</footer>
+</html>
